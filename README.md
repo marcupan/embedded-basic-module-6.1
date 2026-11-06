@@ -3,7 +3,9 @@
 Домашнє завдання курсу Embedded Basic: домашка 2.3, але через `xTaskCreatePinnedToCore`.
 Плата ESP32-S3-WROOM-1-N16R8, PlatformIO, Arduino.
 
-Відео: [demo.mp4](demo.mp4)
+![Три світлодіоди блимають кожен у своєму ритмі](demo.webp)
+
+Відео в повній якості: [demo.mp4](demo.mp4)
 
 ## Схема
 
